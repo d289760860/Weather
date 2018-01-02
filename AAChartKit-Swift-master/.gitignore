@@ -1,0 +1,14 @@
+
+*.xcuserstate
+
+AAChartKit-Swift/.DS_Store
+
+.DS_Store
+
+AAChartKit-Swift/AAChartKit-Swift.xcodeproj/project.xcworkspace/xcuserdata/jinyindao.xcuserdatad/UserInterfaceState.xcuserstate
+
+AAInfographicsDemo.xcodeproj/xcuserdata/jinyindao.xcuserdatad/xcschemes/xcschememanagement.plist
+
+AAInfographicsDemo.xcodeproj/xcuserdata/jinyindao.xcuserdatad/xcschemes/AAInfographicsDemo.xcscheme
+
+*.xcbkptlist
